@@ -1,0 +1,11 @@
+{
+  "name": "dadjokes",
+  "version": "1.0.0",
+  "description": "Backend for Reddit Dad Jokes Unofficial Alexa Skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dlowrey",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "theofficequotes",
+  "version": "1.0.0",
+  "description": "Alexa skill with random quotes from the TV show \"The Office\" (US)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "dlowrey",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
